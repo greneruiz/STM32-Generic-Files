@@ -1,4 +1,4 @@
-#STM32 Generic Files
+# STM32 Generic Files
 
 ## Description
   This repository contains my commonly used files for STM32 -nostdlib baremetal projects. Currently supports STM32F103 and STM32F401.
